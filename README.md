@@ -37,23 +37,24 @@ git clone https://github.com/Div685/MySQL-Zoo.git
 - After cloning navigate to the folder.
 - Check Question file in every folder and `*.sql` file for the answer in every folder.
 
-## Author
 
-👤 **Divyesh Patel**
 
-- GitHub: [@Div685](https://github.com/Div685)
-- Twitter: [@div_685](https://www.linkedin.com/in/divyesh-patel-2a15a6107)
-- LinkedIn: [Divyesh Patel](https://www.linkedin.com/in/divyesh-patel-2a15a6107)
+## Authors
+
+👤 **Mian Faizan Ali Full Stack Programmer**
+
+- GitHub: [@Faizanalifullstackprogrammer](https://github.com/Faizanalifullstackprogrammer)
+- Twitter: [@mianfaizanali](https://twitter.com/mianfaizanali)
+- LinkedIn: [Mianfaizanali](https://pk.linkedin.com/in/mianfaizanali)
+
+
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Div685/MySQL-Zoo/issues).
+Feel free to contact me anytime.
 
-## License
-
-This project is [MIT](https://github.com/Div685/MySQL-Zoo/blob/development/LICENSE) licensed.
 
 ## Show your support
 
